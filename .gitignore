@@ -1,0 +1,25 @@
+# Node.js (React, Vite)
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/dist/
+
+# .NET
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/appsettings.Development.json
+backend/appsettings.Local.json
+
+# Mac/Windows/VSCode 설정
+.DS_Store
+*.user
+*.suo
+.vscode/
+
+# Logs
+*.log
+
+# Docker
+**/.env
+docker-compose.override.yml
