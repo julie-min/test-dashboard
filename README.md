@@ -7,7 +7,7 @@ This is not a production app – it is a project built to practice full-stack de
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Vite, Tailwind, TailAdmin
+- Frontend: React, Vite, Tailwind, Shadcn
 - Backend: ASP.NET Core 8
 - Database: MySQL
 - API Test: Axios
